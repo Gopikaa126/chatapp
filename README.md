@@ -20,10 +20,6 @@ Objective
 1.Build a server using Node.js and Express to handle WebSocket connections with clients.
 2.Implement Socket.io to enable real-time communication between the server and client.
 3.Allow users to create chat rooms and invite other users to join them.
-4.Enable users to send and receive messages in real-time.
-5.Implement a list of all active users in each chat room.
-6.Allow users to leave the chat rooms at any time.
-7.Ensure the app is scalable and can handle a large number of users simultaneously.
-8.Implement authentication and authorization to secure the app.
-9.Use responsive design to ensure the app is accessible on different devices.
-10.Write clean and well-documented code to make it easy for other developers to understand and contribute to the project.
+4.Implement authentication and authorization to secure the app.
+5.Use responsive design to ensure the app is accessible on different devices.
+6.Write clean and well-documented code to make it easy for other developers to understand and contribute to the project.
